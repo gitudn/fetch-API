@@ -77,7 +77,7 @@ const App = () => {
     const fetchUsers = async (url) => { //async may contain asynchronous operations
       try {
         const res = await fetch(url); //res stores data from API , 
-        const data = await res.json(); // data strores the data and converts into json usin await (wait for the promise being resolved) 
+        const data = await res.json(); // data strores the data and converts into json using await (wait for the promise being resolved) 
         if (data.length > 0) {
             setUsers(data);
         }
