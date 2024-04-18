@@ -1,7 +1,7 @@
 // UserData.jsx
 import React from 'react';
 
-const UserData = ({ users }) => { // getting users as props (distructured) from App.jsx
+const UserData = ({ users }) => { // getting users as props (destructured) from App.jsx
   return (
     <div>
       <h1>User Data</h1>
