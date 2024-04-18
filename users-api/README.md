@@ -1,6 +1,7 @@
 # React + Vite
 
 # Progetto React: fetch-API
+site ulr https://mellifluous-lolly-a84c42.netlify.app/
 
 ## Introduzione
 Questo progetto React è stato sviluppato per mostrare i dati degli utenti ottenuti da un'API esterna. È un esempio semplice di come utilizzare React per effettuare chiamate API e visualizzare i dati risultanti.
