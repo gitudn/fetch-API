@@ -33,7 +33,7 @@ Se vuoi contribuire a questo progetto, segui questi passaggi:
 4. Pusha il tuo branch (`git push origin feature/nome-della-funzionalità`).
 5. Apri una Pull Request.
 
-Grazie per aver utilizzato il nostro progetto! Se hai domande o suggerimenti, non esitare a contattarci.
+Grazie per aver utilizzato il mio progetto! Se hai domande o suggerimenti, non esitare a contattarmi.
 
 
 
