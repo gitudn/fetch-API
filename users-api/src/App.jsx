@@ -73,7 +73,7 @@ const API = "https://jsonplaceholder.typicode.com/users";
 const App = () => {
   const [users, setUsers] = useState([]); // for managing and showing data dinamically with state managment (useState hook)
 
-  //sincec API data return promise, used async await for handling promise 
+  //since API data returns promise, used async await for handling promise 
     const fetchUsers = async (url) => { //async may contain asynchronous operations
       try {
         const res = await fetch(url); //res stores data from API , 
